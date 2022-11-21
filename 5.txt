@@ -2,4 +2,4 @@
 For extracting text from the websites, python can be used.
 Using the module requests in python we will be able to fetch the html file that contains the text.
 Next we can use BeautifulSoup from bs4 module and nltk module to extract the words from an html file and process the text respectively/
-Using request package, a GET request can be sent to the website so that we can get the data from ot.
+Using request package, a GET request can be sent to the website so that we can get the data from it.
