@@ -19,7 +19,4 @@ if(num>0):
         if possible(temp):
             count+=1
         temp+=1
-    if((temp-1)==6):
-        print(9)
-    elif((temp-1)==9):
-        print(6)
+    print(temp-1)
